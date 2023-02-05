@@ -1,0 +1,11 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "anachebe asomugha",
+  "license": "ISC"
+}
