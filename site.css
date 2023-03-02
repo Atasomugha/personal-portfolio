@@ -41,6 +41,7 @@ body {
 
   .full-width {
     width: 100%;
+    align-content: center;
 }
 
 .btn {

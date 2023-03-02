@@ -14,9 +14,11 @@ class Footer extends HTMLElement
 
     connectedCallback() {
         this.innerHTML = `
+        <div style = "background-color: #37736C; font-weight: bold;" class="full-width">
         <footer>
         <p style="text-align: center;">&copy; Anachebe Asomugha &nbsp; 2023
         </p></footer>
+        </div>
         `;
     }
 }

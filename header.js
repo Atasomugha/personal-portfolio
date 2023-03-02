@@ -14,6 +14,7 @@ class Header extends HTMLElement
 
     connectedCallback() {
         this.innerHTML = `
+        <div class="full-width">
         <header class="app-header full-width">From The Portfolio Of Anachebe Asomugha</header>
 
         <nav>
@@ -25,6 +26,7 @@ class Header extends HTMLElement
             <a href="api-tests.html">API-Tests</a>&#160; &#160;
             <a href="bucket-list.html">Bucket List</a>
         </nav> 
+        </div>
         `;
     }
 }
