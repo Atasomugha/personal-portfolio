@@ -57,10 +57,6 @@ body {
     color: whitesmoke;
 }
 
-.btn:hover {
-
-}
-
 button:hover{
     border: 2px solid white;
     background-color: #74F2E4;
